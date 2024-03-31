@@ -1,4 +1,4 @@
-# Game-2048
+# Game 2048
 
 ## Project Overview
 This project is a C++ replica of the popular 2048 game, created for educational purposes to explore and implement game development principles. It faithfully replicates the original game's mechanics, utilizing custom graphics and supporting keyboard controls for gameplay. The project is structured around the Model-View-Controller (MVC) architecture, showcasing the separation of game logic, user interaction, and graphical display.
