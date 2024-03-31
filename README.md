@@ -9,8 +9,8 @@ This project is a C++ replica of the popular 2048 game, created for educational 
 - **Keyboard Controls**: Allows players to use arrow keys for gameplay, mirroring the intuitive controls of the original 2048 game.
 - **Custom Game Engine Integration**: Demonstrates the capability to integrate and utilize a custom game engine for handling game state and rendering.
 
-## Controls
-Use the arrow keys (↑, ↓, ←, →) to move the tiles on the board. Tiles with the same number merge into one when they touch, adding up their values. Try and get a 2048 tile!
+## Controls and Demo
+Use the arrow keys (↑, ↓, ←, →) to move the tiles on the board. Tiles with the same number merge into one when they touch, adding up their values. Try and get a 2048 tile! [Here's](https://drive.google.com/file/d/1iSn5vmP2I7VpD6dO77Aqnu9hL3OsqWf-/view?usp=sharing) a failed attempt demonstration.
 
 
 ## Purpose
